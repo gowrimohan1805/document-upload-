@@ -49,6 +49,3 @@ optiextract/
 - SQLAlchemy
 - SQLite
 - HTML5/CSS3/JavaScript
-
-## Author
-OptiExtract Team
